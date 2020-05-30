@@ -1,0 +1,11 @@
+﻿<linker>
+
+	<assembly fullname="XFShell">
+		<type fullname="*" />
+	</assembly>
+
+	<assembly fullname="XFShell.Android">
+		<type fullname="*" />
+	</assembly>
+
+</linker>
